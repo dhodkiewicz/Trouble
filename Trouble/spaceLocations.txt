@@ -1,0 +1,48 @@
+28: 261, 476
+27: 312, 473
+26: 355, 454
+25: 394, 429
+24: 433, 392
+23: 466, 353
+Green Start - 22: 466, 308
+21: 466, 265
+20: 466, 218
+19: 451, 177
+18: 424, 143
+17: 394, 114
+16: 356, 81
+Blue Start - 15: 307, 63
+14: 255, 63
+13: 205, 63
+12: 158, 82
+11: 125, 119
+10: 87, 151
+9: 61, 182
+Yellow Start - 8: 53, 227
+7: 53, 266
+6: 53, 318
+5: 61, 362
+4: 91, 398
+3: 126, 433
+2: 162, 461
+Red Start - 1: 213, 476
+
+Red Home 1: 180, 527	 Red Finish 1: 256, 421
+Red Home 2: 231, 527	 Red Finish 2: 258, 382
+Red Home 3: 282, 527	 Red Finish 3: 260, 343
+Red Home 4: 333, 527	 Red Finish 4: 218, 343
+
+Green Home 1: 517, 343	 Green Finish 1: 418, 264
+Green Home 2: 517, 292	 Green Finish 2: 376, 263
+Green Home 3: 517, 241	 Green Finish 3: 335, 263
+Green Home 4: 517, 190	 Green Finish 4: 335, 303
+
+Blue Home 1: 333, 12	 Blue Finish 1: 256, 110
+Blue Home 2: 282, 12	 Blue Finish 2: 256, 149
+Blue Home 3: 231, 12	 Blue Finish 3: 254, 187
+Blue Home 4: 180, 12	 Blue Finish 4: 293, 187
+
+Yellow Home 1: 2, 199	 Yellow Finish 1: 99, 270
+Yellow Home 2: 2, 250	 Yellow Finish 2: 142, 268
+Yellow Home 3: 2, 295	 Yellow Finish 3: 180, 270
+Yellow Home 4: 2, 343	 Yellow Finish 4: 180, 229
